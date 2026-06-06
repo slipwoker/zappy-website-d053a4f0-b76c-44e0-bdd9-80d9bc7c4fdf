@@ -1,0 +1,104 @@
+# ציפורניים של אודיה — Generative Engine Optimization Map
+
+> Odelia Nails is a professional nail and manicure studio offering a full range of nail care services including gel manicures, nail extensions, acrylics, and nail art. The brand has a polished, feminine aesthetic with a focus on precision and quality. The studio operates by appointment only with an online booking system available 24/7, and emphasizes professionalism, convenience, and beautiful results. The business has a warm, personal tone and a clear cancellation policy reflecting a well-organized, client-focused operation.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפשת מניקור מדויק בתל אביב? בסטודיו של אודיה תהני מלק ג&#39;ל, הארכת ציפורניים וטיפולי שיקום לציפורניים חלשות. קבעי תור אונליין עכשיו ותראי איך היופי פורח.
+
+### שירותים ומחירים
+https://example.com/services
+גלי את הטיפולים הכי מבוקשים: אקריליק מעוצב, טיפול efero nail treatment לשיקום ציפורניים פגומות, ומחירים שקופים שמתאימים לך. כנסי למחירון המלא והזמיני מקום עוד היום.
+
+### גלריה
+https://example.com/gallery
+דפדפי בין העבודות הכי מרהיבות שלנו: אומנות ציפורניים ייחודית, גימורים מבריקים ועיצובים שכבשו לקוחות. כל תמונה מוכיחה שדיוק הוא השם השני שלנו. בואי לקבל השראה ללוק הבא.
+
+### צור קשר והזמנות
+https://example.com/contact
+מוכנה לציפורניים חלומיות? מלאי את הטופס, קבעי תור אונליין 24/7 או צרי קשר לכל שאלה. אנחנו כאן עם חיוך, מקצועיות ומדיניות ביטולים ברורה ששומרת על הזמן שלך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - ציפורניים של אודיה
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ציפורניים של אודיה
+
+### Category
+https://example.com/category/:slug
+מוצרים - ציפורניים של אודיה
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ציפורניים של אודיה
+Odelia Nails is a professional nail and manicure studio offering a full range of nail care services including gel manicures, nail extensions, acrylics, and nail art. The brand has a polished, feminine aesthetic with a focus on precision and quality. The studio operates by appointment only with an online booking system available 24/7, and emphasizes professionalism, convenience, and beautiful results. The business has a warm, personal tone and a clear cancellation policy reflecting a well-organized, client-focused operation.
+
+## Target Audience
+- נשים המחפשות טיפולי ציפורניים מקצועיים
+- נשים מקצועיות
+- כלות לעתיד
+- משפיעניות אופנה
+- נשים מבוגרות
+- אימהות צעירות
+- סטודנטיות
+
+## Industry
+Beauty & Nail Care
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
